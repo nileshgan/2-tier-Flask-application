@@ -39,7 +39,7 @@ Before you begin, make sure you have the following installed:
    MYSQL_DB=your_database
    ```
 
-## Usage
+## Usage ##
 
 1. Start the containers using Docker Compose:
 
