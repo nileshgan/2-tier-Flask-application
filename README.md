@@ -68,7 +68,7 @@ Before you begin, make sure you have the following installed:
    - Visit http://localhost to see the frontend. You can submit new messages using the form.
    - Visit http://localhost:5000/insert_sql to insert a message directly into the `messages` table via an SQL query.
 
-## Cleaning Up
+## Cleaning Up ##
 
 To stop and remove the Docker containers, press `Ctrl+C` in the terminal where the containers are running, or use the following command:
 
