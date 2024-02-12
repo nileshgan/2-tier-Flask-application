@@ -76,7 +76,7 @@ To stop and remove the Docker containers, press `Ctrl+C` in the terminal where t
 docker-compose down
 ```
 
-## To run this two-tier application using  without docker-compose
+## To run this two-tier application using  without docker-compose ##
 
 - First create a docker image from Dockerfile
 ```bash
