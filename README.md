@@ -107,6 +107,6 @@ docker run -d --name flaskapp -v mysql-data:/var/lib/mysql -v ./message.sql:/doc
 
 - Be cautious when executing SQL queries directly. Validate and sanitize user inputs to prevent vulnerabilities like SQL injection.
 
-- If you encounter issues, check Docker contaainer logs and error messages for troubleshooting.
+- If you encounter issues, check Docker container logs and error messages for troubleshooting.
 
 ```
