@@ -26,9 +26,9 @@ Before you begin, make sure you have the following installed:
 
 3. Create a `.env` file in the project directory to store your MySQL environment variables:
 
-   ```bash
+   ``````bash
    touch .env
-   ```
+   ``````
 
 4. Open the `.env` file and add your MySQL configuration:
 
